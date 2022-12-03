@@ -1,4 +1,4 @@
-<h1 align="center">Call of Cthulhu 7th Edition (Unofficial) for Foundry VTT</h1>
+<h1 align="center">Rivers of London RPG (Unofficial) for Foundry VTT</h1>
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/Miskatonic-Investigative-Society/CoC7-FoundryVTT.svg">
   <a href="https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/commits/develop">
@@ -19,7 +19,7 @@
 
 ## Overview.
 
-An unofficial implementation of the Call of Cthulhu 7th Edition game system for [Foundry Virtual Tabletop](http://foundryvtt.com). This provides sheets and system in addition to some compendiums as examples.
+An unofficial implementation of the Rivers of London game system for [Foundry Virtual Tabletop](http://foundryvtt.com). 
 
 If you have any suggestions or feedback, please visit us on Discord in the `#chaosium` channel on the [Foundry Discord Server](discord.gg/foundryvtt), or see: [CONTRIBUTING](https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/blob/develop/.github/CONTRIBUTING.md)
 
